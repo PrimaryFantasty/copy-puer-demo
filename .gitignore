@@ -1,0 +1,12 @@
+node_modules
+Intermediate
+.history
+.idea
+.vs
+Build
+Binaries
+Cooked
+Crashes
+Logs
+Saved
+*.sln

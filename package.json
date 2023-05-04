@@ -1,0 +1,21 @@
+{
+  "name": "tsproj",
+  "version": "1.0.0",
+  "description": "ts project",
+  "scripts": {
+    "build:tsc": "tsc -p ./tsconfig.json"
+  },
+  "dependencies": {
+    "@types/mocha": "^7.0.1",
+    "react": "^16.14.0",
+    "react-reconciler": "^0.25.1"
+  },
+  "devDependencies": {
+    "@types/react": "^16.14.0",
+    "typescript": "^4.9.5"
+  },
+  "volta": {
+    "node": "16.16.0",
+    "npm": "9.6.0"
+  }
+}
